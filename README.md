@@ -1,7 +1,7 @@
 # Exercícios da seção 4 do curso básico ao avançado de Python, da Geek university.
 Em alguns exercícios modifiquei a forma em que se pede no enunciado, espero que gostem!!
 
-Da primeira seção à quarta foram ensinado os conteúdos:
+Nos exercícios foram utilizados conceitos aprendidos na seção 1 à seção 4:
  - Pep8, para escrever cógigo Python de forma pythônica.
  - Dir e Help, para obter informações sobre determinados tipos, classes ou funções.
  - Recebendo dados de usuário, utilizando a função input.
